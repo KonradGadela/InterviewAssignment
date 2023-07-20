@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentNo1", "InterviewAssignment\AssignmentNo1.csproj", "{4F92804D-AF17-4621-B356-C2A3DFDC1E90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentNo1", "InterviewAssignmentNo1\AssignmentNo1.csproj", "{4F92804D-AF17-4621-B356-C2A3DFDC1E90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentNo1Tests", "InterviewAssignmentTests\AssignmentNo1Tests.csproj", "{9F37A96F-B87F-42B2-A7D1-9E2A0F4AE223}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentNo1Tests", "InterviewAssignmentTestsNo1\AssignmentNo1Tests.csproj", "{9F37A96F-B87F-42B2-A7D1-9E2A0F4AE223}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentNo2", "AssignmentNo2\AssignmentNo2.csproj", "{D8309146-B925-4917-83AA-27DEF8E3B160}"
 EndProject
